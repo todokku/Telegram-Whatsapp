@@ -14,9 +14,9 @@ import sys
 
 
 # Input your api details here
-api_id = '' # API ID
-api_hash = '' # API HASH
-phone_number = '' # Phone number
+api_id = '1303444' # API ID
+api_hash = '443c8b41999447752a2bdb836dc122c3' # API HASH
+phone_number = '+13125252684' # Phone number
 
 
 #This part of the code handles opening of Whatsapp on a new Chrome Window
